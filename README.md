@@ -1,6 +1,7 @@
 # Databases
 
 This program creates an textual backup of a given database file. 
+/n
 It saves the SQL commands required to recreate the database in a text file. 
 
 # TO USE: 
